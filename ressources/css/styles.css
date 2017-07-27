@@ -8,6 +8,12 @@ header{
   background-image: url("../images/the-flatiron-building.png");
 }
 
+footer{
+  color: white;
+  background-color: dimgrey;
+  text-align: left;
+}
+
 h1{
   font-size: 70px;
 }
@@ -27,4 +33,8 @@ h3{
 
 p{
   font-size: 14px;
+}
+
+.tiny{
+  font-size: 11px;
 }
